@@ -28,6 +28,7 @@ var/
 *.manifest
 
 ##Testtest
+## testagain
 *.spec
 
 # Installer logs
