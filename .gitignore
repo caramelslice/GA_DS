@@ -27,11 +27,9 @@ var/
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 
-##Testtest
-## testagain
 *.spec
-
-# Installer logs
+Installer
+#  logs
 pip-log.txt
 pip-delete-this-directory.txt
 
@@ -55,3 +53,5 @@ docs/_build/
 
 # PyBuilder
 target/
+
+## This my Macbook information. It costed me $1000. Yosemite 
