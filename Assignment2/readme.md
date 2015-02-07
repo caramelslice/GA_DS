@@ -10,10 +10,11 @@ Question 2. Visualise the relationships between the ridership and different feat
 Answer: In assignment code file
 
 Question 3. Explain which features seem to be the strongest indicators for each type of ridership (casual and noncasual). Do 4. certain features come off as better tells for one over the other?
-- The time of the day and the day of the week have strong influence on casual and noncasual riderships. 
+Answer: The time of the day and the day of the week have strong influence on casual and noncasual riderships. 
 
 
 Question 4. Summarise your results.
+Answer:
 - casual users ride more on the weekends
 - register users ride more during the week
 
@@ -25,6 +26,7 @@ Question 4. Summarise your results.
 
 Question 5. Extra: Business application. Given this information, what suggestions could be made to improve the ridership program? Consider this open field, since we only have aggregated stats and not individual ridership here.
 
+Answer:
 Tasks in terms of priority:
 a. Ensure there are on average 300 bikes between 8am - 7pm.
 b. To maximize profit, ensure around 800 ~ 1000 bicycles between 8-9am and 4-7pm 
