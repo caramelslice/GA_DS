@@ -23,14 +23,14 @@ Answer:
 - registered riders ride mostly during rush hours
 - casual riders like to ride in the afternoon
 
-- All riders rider more in summer than in any other seasons
+- All riders ride more in summer than in any other seasons
 - Riders aren't likely to ride when the temperature drops below 8 celcius, or when it's too windy or too humid
 
 Question 5. Extra: Business application. Given this information, what suggestions could be made to improve the ridership program? Consider this open field, since we only have aggregated stats and not individual ridership here.
 
 Answer:
 Tasks in terms of priority:
-a. Ensure there are on average 300 bikes between 8am - 7pm.
-b. To maximize profit, ensure around 800 ~ 1000 bicycles between 8 - 9am and 4 - 7pm 
-c. Tuesday to Friday have higher daily rider volumes, ensure 200 min bikes daily in Summer and Fall
-d. Maintenance tasks can be done during winter. around 100 - 200 bikes are sufficient to accomdate riders
+- Ensure there are on average 300 bikes between 8am - 7pm.
+- To maximize profit, ensure around 800 ~ 1000 bicycles between 8 - 9am and 4 - 7pm 
+- Tuesday to Friday have higher daily rider volumes, ensure 200 min bikes daily in Summer and Fall
+- Maintenance tasks can be done during winter. around 100 - 200 bikes are sufficient to accomdate riders
