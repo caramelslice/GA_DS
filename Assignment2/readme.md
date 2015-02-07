@@ -7,13 +7,15 @@ This file contains data related to number of riders (casual, members, and total)
 
 Question 1. Explore the data in both hourly and daily counts. You'll need to aggregate by day to generate the daily data.
 Question 2. Visualise the relationships between the ridership and different features.
-Answer: In assignment code file
+
+Answer: Q1 and Q2 are done In assignment code file
 
 Question 3. Explain which features seem to be the strongest indicators for each type of ridership (casual and noncasual). Do 4. certain features come off as better tells for one over the other?
 Answer: The time of the day and the day of the week have strong influence on casual and noncasual riderships. 
 
 
 Question 4. Summarise your results.
+
 Answer:
 - casual users ride more on the weekends
 - register users ride more during the week
