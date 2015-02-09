@@ -5,7 +5,7 @@ bikeshare.csv.
 
 This file contains data related to number of riders (casual, members, and total) for each hour, compared to stats for that time, such as temperature, windspeed. the file bikeshare.txt will explain it in more detail.
 
-**##Question 1. Explore the data in both hourly and daily counts. You'll need to aggregate by day to generate the daily data.**
+**Question 1. Explore the data in both hourly and daily counts. You'll need to aggregate by day to generate the daily data.**
 
 
 **Question 2. Visualise the relationships between the ridership and different features.**
